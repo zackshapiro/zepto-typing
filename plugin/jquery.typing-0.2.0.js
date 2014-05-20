@@ -79,4 +79,4 @@
             stopTyping(event, 0);
         });
     }
-})(jQuery);
+})(Zepto);
